@@ -1,0 +1,24 @@
+SMAP
+donateHouseholds_jsp.java
+JSP
+*S JSP
+*F
++ 0 donateHouseholds.jsp
+donateHouseholds.jsp
+*L
+5,5:45
+9:49,9
+10,8:58
+18,2:67
+19,11:69
+30:80,3
+31,16:83
+47,4:100
+50:104
+51:105,6
+52:111
+53,2:113
+54,7:115
+61,4:123
+64,4:127
+*E
